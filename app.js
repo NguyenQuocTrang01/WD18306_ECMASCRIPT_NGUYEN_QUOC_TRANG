@@ -1,5 +1,5 @@
-const myName = 'Nguyen Quoc Trang' 
-const person = {fist: myName} 
+const myName = 'Nguyen Quoc Trang' ;
+const person = {fist: myName} ;
 
 console.log (person) ;
 
