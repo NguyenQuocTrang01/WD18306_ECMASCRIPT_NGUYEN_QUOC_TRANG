@@ -10,19 +10,19 @@
     },
     "rules": {
         "indent": [
-            "warn",
+            "error",
             "tab"
         ],
         "linebreak-style": [
-            "warn",
+            "error",
             "unix"
         ],
         "quotes": [
-            "warn",
+            "error",
             "single"
         ],
         "semi": [
-            "warn",
+            "error",
             "always"
         ],
         "no-console": "off"
